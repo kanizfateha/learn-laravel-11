@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
     Contact Page
+    <a href="/">Back to home</a>
 </body>
 </html>
