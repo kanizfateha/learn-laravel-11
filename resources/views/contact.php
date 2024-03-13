@@ -9,5 +9,7 @@
 <body>
     Contact Page
     <a href="/">Back to home</a>
+    <a href="/about">About US</a>
+
 </body>
 </html>
