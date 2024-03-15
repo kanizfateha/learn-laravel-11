@@ -13,8 +13,13 @@
     
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        Home Page
-    <a href="/about">go back to about</a>
+        <nav>
+        <a href="/">home</a>
+        <a href="/about">about</a>
+        <a href="/contact">contact</a>
+        </nav>
+        {{ $slot }}
+    
 
     </body>
 </html>
